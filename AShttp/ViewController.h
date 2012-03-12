@@ -24,7 +24,7 @@
 @property (retain, nonatomic) IBOutlet UITextView *requestText;
 
 - (IBAction)requestBt:(id)sender;//注释
-- (IBAction)urlBt:(id)sender;
+- (IBAction)urlBt:(id)sender;//测试
 
 
 @end
