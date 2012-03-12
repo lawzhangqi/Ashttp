@@ -23,7 +23,7 @@
 @property (retain, nonatomic) IBOutlet UIButton *urlBt;
 @property (retain, nonatomic) IBOutlet UITextView *requestText;
 
-- (IBAction)requestBt:(id)sender;
+- (IBAction)requestBt:(id)sender;//注释
 - (IBAction)urlBt:(id)sender;
 
 
